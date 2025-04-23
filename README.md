@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Developer Doodle" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180§ion=header&text=Krunal%20Pokar&fontSize=60&fontAlignY=40&animation=fadeIn" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Krunal%20Pokar&fontSize=60&fontAlignY=40&animation=fadeIn" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Krunal Pokar</h1>
-<h3 align="center">Full-Stack Developer | Crafting Scalable Web Solutions | Gujarat, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&width=500&lines=Full-Stack+Innovator;React+%26+Next.js+Enthusiast;DSA+Problem+Solver;Shaping+the+Future+of+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Wizard;React+%26+Node.js+Enthusiast;DSA+Problem+Solver;Crafting+the+Future+of+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +34,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,python,sql" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,nodejs,express,mysql,postgres,mongodb,redis,git,github,docker,firebase,postman,vscode" alt="Frameworks & Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,nodejs,express,mysql,postgres,mongodb,git,github,firebase,postman,vscode" alt="Frameworks & Tools" />
 </div>
 
 ---
