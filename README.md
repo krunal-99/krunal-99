@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Developer Doodle" width="100%"/>
+  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Developer Doodle" width="70%"/>
 </div>
 
 <div align="center">
