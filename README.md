@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Krunal Pokar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Wizard;React+%26+Node.js+Enthusiast;DSA+Problem+Solver;Crafting+the+Future+of+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;React+%26+Node.js+Enthusiast;DSA+Problem+Solver;Crafting+the+Future+of+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,15 +78,6 @@
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krunal-99/krunal-99/main/snake.svg" alt="Snake Animation" onError="this.src='https://github.com/krunal-99/krunal-99/blob/main/snake.svg'" />
-</div>
-
----
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/krunal-99/count.svg" alt="Visitor Counter"/>
