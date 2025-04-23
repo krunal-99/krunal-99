@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/krunal-99/krunal-99/main/assets/developer-doodle.png](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg)" alt="Developer Doodle" width="300"/>
+  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Developer Doodle" width="300"/>
 </div>
 
 <div align="center">
