@@ -40,8 +40,8 @@
 ---
 
 ## 🎖️ Certifications
-- 🌐 **[The Complete 2024 Web Development Course](https://www.udemy.com/certificate/UC-abcdef12-3456-7890/)** by Angela Yu (Udemy)
-- ⚛️ **[Developing Front-End Apps With React](https://www.coursera.org/account/accomplishments/certificate/123456789)** by IBM (Coursera)
+- 🌐 **[The Complete 2024 Web Development Course](https://www.udemy.com/certificate/UC-e658ca51-94d4-4b50-bd0c-17bdcf6cc737/)** by Angela Yu (Udemy)
+- ⚛️ **[Developing Front-End Apps With React](https://www.coursera.org/account/accomplishments/certificate/4B7JBBQB976W)** by IBM (Coursera)
 
 ---
 
